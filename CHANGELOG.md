@@ -1,5 +1,12 @@
 # Changelog
 
+### [4.5.10](https://github.com/googleapis/java-dialogflow/compare/v4.5.9...v4.5.10) (2022-03-18)
+
+
+### Documentation
+
+* added explanation for SuggestionResult ([#861](https://github.com/googleapis/java-dialogflow/issues/861)) ([e443fcd](https://github.com/googleapis/java-dialogflow/commit/e443fcd6893203c7c8d5f44cb885fa6a21b67ff6))
+
 ### [4.5.9](https://github.com/googleapis/java-dialogflow/compare/v4.5.8...v4.5.9) (2022-03-14)
 
 
